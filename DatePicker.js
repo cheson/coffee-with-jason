@@ -87,14 +87,6 @@ function generateHTMLCalendar(dayOfWeek, numDaysInMonth, numWeeks, month, year) 
 	return calendarHTML;
 }
 
-function prev() {
-	alert("prev!");
-}
-
-function next() {
-	alert("next!");
-}
-
 // function DatePicker(id, fn) {
 function DatePicker(id, fn) {
 
