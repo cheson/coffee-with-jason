@@ -3,3 +3,6 @@ bootstrap theme practice.
 
 bootstrap is essentially just a library of precompiled html and css that you can include,
 often by setting the classes of your divs to match those of bootstrap. 
+
+https://moz.com/blog/absolute-beginners-guide-to-google-analytics
+installing google analytics
