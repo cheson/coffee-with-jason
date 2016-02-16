@@ -1,0 +1,5 @@
+http://www.w3schools.com/bootstrap/bootstrap_theme_me.asp
+bootstrap theme practice.
+
+bootstrap is essentially just a library of precompiled html and css that you can include,
+often by setting the classes of your divs to match those of bootstrap. 
