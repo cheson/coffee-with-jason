@@ -6,3 +6,10 @@ often by setting the classes of your divs to match those of bootstrap.
 
 https://moz.com/blog/absolute-beginners-guide-to-google-analytics
 installing google analytics
+
+https://www.typeform.com/
+forms to fill out
+
+http://lunchwithtom.com/
+http://coffeewithdavid.com/
+people have had similar ideas!
